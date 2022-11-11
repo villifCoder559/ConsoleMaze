@@ -13,7 +13,7 @@ This method is broken down into the following steps:
       </ul>
   <li> Repeat untill matrix is full
   </ul>
-To print the maze I have to double the size to insert walls between paths.
+To print the maze I have to double the size of the to insert walls between paths.
 
 ## Snapshots
 <img src="https://user-images.githubusercontent.com/1312740/201408255-6713e6a6-51f3-4920-a415-ed441b803c1a.png" alt="Maze" width="30.4%">  <img src="https://user-images.githubusercontent.com/1312740/201408262-512c6a5a-2085-423a-bf88-7b7f7e19b7ae.png" alt="Maze" width="30%">
